@@ -1,0 +1,12 @@
+C:\Users\Elliott\SkyDrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\bin\Debug\HyperspaceCheeseBattleNew.exe.config
+C:\Users\Elliott\SkyDrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\bin\Debug\HyperspaceCheeseBattleNew.exe
+C:\Users\Elliott\SkyDrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\bin\Debug\HyperspaceCheeseBattleNew.pdb
+C:\Users\Elliott\SkyDrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\obj\Debug\HyperspaceCheeseBattleNew.csprojResolveAssemblyReference.cache
+C:\Users\Elliott\SkyDrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\obj\Debug\HyperspaceCheeseBattleNew.exe
+C:\Users\Elliott\SkyDrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\obj\Debug\HyperspaceCheeseBattleNew.pdb
+D:\Skydrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\bin\Debug\HyperspaceCheeseBattleNew.exe.config
+D:\Skydrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\obj\Debug\HyperspaceCheeseBattleNew.exe
+D:\Skydrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\obj\Debug\HyperspaceCheeseBattleNew.pdb
+D:\Skydrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\bin\Debug\HyperspaceCheeseBattleNew.exe
+D:\Skydrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\bin\Debug\HyperspaceCheeseBattleNew.pdb
+D:\Skydrive\HyperspaceCheeseBattleNew\HyperspaceCheeseBattleNew\obj\Debug\HyperspaceCheeseBattleNew.csprojResolveAssemblyReference.cache
